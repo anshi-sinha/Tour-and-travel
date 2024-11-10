@@ -25,8 +25,8 @@ Uses of a Tour and Travel System
 
 9.Data Analytics for Agencies: Helps agencies understand customer behavior and optimize service offerings.
 
-10.Enhanced Safety Features: Provides alerts and guidance on travel safety, including local health protocols and emergency contacts.![Screenshot (99)](https://github.com/user-attachments/assets/4578694b-d6d4-4ef0-8a6b-5347845c59dd)
-![Screenshot (99)](https://github.com/user-attachments/assets/15dc418b-dad6-44ec-8e5e-c9e70dee029d)
-![Screenshot (101)](https://github.com/user-attachments/assets/84d0250a-5c5a-49b6-919c-3ebf0dfddf01)
+10.Enhanced Safety Features: Provides alerts and guidance on travel safety, including local health protocols and emergency contacts.
 
-
+![Screenshot (101)](https://github.com/user-attachments/assets/5b219dae-55f4-4785-a467-3e8b341b884f)
+![Screenshot (100)](https://github.com/user-attachments/assets/d1e82bf1-5c87-4e2c-bea1-ef49e1eecf0d)
+![Screenshot (99)](https://github.com/user-attachments/assets/6eced3ee-22c5-414a-8c05-394d808a710d)
